@@ -1,5 +1,6 @@
 ofxAgilentGPIB
 ==============
+![img](/ofxaddons_thumbnail.png)
 
 first draft implementation
 
